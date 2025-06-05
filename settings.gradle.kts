@@ -38,6 +38,6 @@ dependencyResolutionManagement {
 
 include(":app")
 include(":fusedLibrary")
-include(":androidLib1")
+//include(":androidLib1")
 include(":androidLib2")
 include(":androidLib3")

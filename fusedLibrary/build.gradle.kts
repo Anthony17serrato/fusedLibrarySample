@@ -49,7 +49,7 @@ publishing {
 }
 
 dependencies {
-    include(project(":androidLib1"))
+    //include(project(":androidLib1"))
     include(project(":androidLib2"))
     include("com.google.code.gson:gson:2.10.1")
     include(files("libs/simple-jar-with-A_DoIExist-class.jar"))
