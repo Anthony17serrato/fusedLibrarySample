@@ -43,7 +43,7 @@ publishing {
     repositories {
         maven {
             name = "myrepo"
-            url = uri(layout.buildDirectory.dir("repo"))
+            url = uri("https://jitpack.io")
         }
     }
 }

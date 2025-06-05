@@ -6,6 +6,16 @@
         <option name="testRunner" value="CHOOSE_PER_TEST" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/androidLib1" />
+            <option value="$PROJECT_DIR$/androidLib2" />
+            <option value="$PROJECT_DIR$/androidLib3" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/fusedLibrary" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>

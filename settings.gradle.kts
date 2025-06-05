@@ -32,7 +32,7 @@ dependencyResolutionManagement {
 //maven { url = uri("") }
         google()
         mavenCentral()
-        maven(url = uri("${rootProject.projectDir}/fusedLibrary/build/repo"))
+        maven(url = uri("https://jitpack.io"))
     }
 }
 

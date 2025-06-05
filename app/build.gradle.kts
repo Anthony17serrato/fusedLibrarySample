@@ -52,7 +52,7 @@ android {
 }
 
 dependencies {
-    implementation(projects.fusedLibrary)
+    //implementation(projects.fusedLibrary)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
