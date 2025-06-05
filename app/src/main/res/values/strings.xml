@@ -16,5 +16,4 @@
 
 <resources>
     <string name="app_name">Fused Library Sample</string>
-    <string name="fused_lib_reference">@string/string_from_androidLib_1</string>
 </resources>
